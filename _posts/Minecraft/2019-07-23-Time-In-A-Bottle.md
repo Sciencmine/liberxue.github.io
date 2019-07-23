@@ -2,7 +2,7 @@
 layout: blog
 book: true
 background: blue
-background-image: {{ site.url }}assets/blogs/Time-In-A-Bottle/timeinabottle.png
+background-image: https://sciencmine.github.io/assets/blogs/Time-In-A-Bottle/timeinabottle.png
 title:  "时间之瓶 - 模组发布"
 category: Minecraft
 tags:
