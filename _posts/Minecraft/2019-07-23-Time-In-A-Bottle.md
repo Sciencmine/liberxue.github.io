@@ -41,5 +41,5 @@ tags:
 
 创造模式下可以无限使用
 
-项目地址[https://github.com/Sciencmine-Time-In-A-Bottle](https://github.com/Sciencmine-Time-In-A-Bottle)
+项目地址[https://github.com/Sciencmine/Time-In-A-Bottle](https://github.com/Sciencmine/Time-In-A-Bottle)
 
