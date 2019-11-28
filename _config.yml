@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Sciencmine的个人博客"
-description:      "Sciencmine的个人博客"
+title:            "Sciencmine 的博客"
+description:      "Sciencmine 的博客"
 url:              https://sciencmine.github.io/ # 域名
 signoff:          "Sciencmine"
 
@@ -25,8 +25,8 @@ links:
     external:     false
 #DO NOT EDIT END
   - name:         Minecraft
-    url:          /Minecraft
-    external:     false
+    url:          /minecraft
+    external:     true
   - name:         sclient
     url:          /sclient
     external:     false
