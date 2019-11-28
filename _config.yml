@@ -25,7 +25,7 @@ links:
     external:     false
 #DO NOT EDIT END
   - name:         Minecraft
-    url:          /minecraft
+    url:          https://sciencmine.github.io/minecraft/
     external:     true
   - name:         sclient
     url:          /sclient
